@@ -1,0 +1,1314 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;  
+}
+body{
+    background-image: url(../img/2e08617f3f0e57bc5b0343e37b56d7bc.jpg);
+    background-position: center;
+}
+.titulo{
+    width: 40%;
+    height: 180px;
+    margin-top: 3%;
+    margin-left: 28%;
+    background-image: url(../img/b134ad1763583c705b0a6efa1da6982f.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100% 100%;
+    box-shadow: 7px 7px 7px white;
+}
+#menu ul li{
+    display: block;
+    float: left;
+    border-right: 1px solid #cccccc;
+}
+#menu ul li a{
+    display: block;
+    padding: 10px;
+    color: rgba(175, 175, 233, 0.733);
+}
+#menu ul li:hover{
+    background:rgba(66, 27, 27, 0.486);
+}
+#menu ul li:hover a{
+    color: white;
+}
+.clearfix{
+    float: none;
+    clear: both;
+}
+.card1{
+    float: left;
+    width: 27%;
+    height: 380px;
+    background-image: url(../img/00001.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 77% 79%;
+    background-position-y: 0%;
+    overflow: hidden;
+    margin: 22px;
+    margin-top: 100px;
+    margin-left: 60px;
+}
+.card1 p{
+    color:white;
+    background-color:  black;
+    margin-top: 67%;
+    width: 95%;
+    height: 88px;
+    text-align: center;
+    font-size: 17px;
+    font-family: "BebasNeue";
+    letter-spacing: 2px;
+    padding: 6px;
+    box-shadow: 2px 2px 4px white;
+}
+.card2{
+    float: left;
+    width: 27%;
+    height: 380px;
+    background-image: url(../img/00002.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 62% 63%;
+    background-position-y: 0% !important;
+    overflow: hidden;
+    margin: 22px;
+    margin-top: 100px;
+}
+.card2 p{
+    color:white;
+    background-color:  black;
+    margin-top: 67%;
+    width: 95%;
+    height: 88px;
+    text-align: center;
+    font-size: 17px;
+    font-family: "BebasNeue";
+    letter-spacing: 2px;
+    padding: 6px;
+    box-shadow: 2px 2px 4px white;
+}
+.card3{
+    float: left;
+    width: 27%;
+    height: 380px;
+    background-image: url(../img/00003.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 78% 62%;
+    background-position-y: 0%;
+    overflow: hidden;
+    margin: 22px;
+    margin-top: 100px;
+}
+.card3 p{
+    color:white;
+    background-color:  black;
+    margin-top: 67%;
+    width: 95%;
+    height: 88px;
+    text-align: center;
+    font-size: 17px;
+    font-family: "BebasNeue";
+    letter-spacing: 2px;
+    padding: 6px;
+    box-shadow: 2px 2px 4px white;
+}
+.card4{
+    float: left;
+    width: 27%;
+    height: 380px;
+    background-image: url(../img/00004.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 65% 64%;
+    background-position-y: 0%;
+    overflow: hidden;
+    margin: 22px;
+    margin-top: 100px;
+    margin-left: 60px;
+}
+.card4 p{
+    color:white;
+    background-color:  black;
+    margin-top: 67%;
+    width: 95%;
+    height: 88px;
+    text-align: center;
+    font-size: 17px;
+    font-family: "BebasNeue";
+    letter-spacing: 2px;
+    padding: 6px;
+    box-shadow: 2px 2px 4px white;
+}
+.card5{
+    float: left;
+    width: 27%;
+    height: 380px;
+    background-image: url(../img/00005.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 70% 65%;
+    background-position-y: 0%;
+    overflow: hidden;
+    margin: 22px;
+    margin-top: 100px;
+}
+.card5 p{
+    color:white;
+    background-color:  black;
+    margin-top: 67%;
+    width: 95%;
+    height: 88px;
+    text-align: center;
+    font-size: 17px;
+    font-family: "BebasNeue";
+    letter-spacing: 2px;
+    padding: 6px;
+    box-shadow: 2px 2px 4px white;
+}
+.card6{
+    float: left;
+    width: 27%;
+    height: 380px;
+    background-image: url(../img/00006.png);
+  
+    background-repeat: no-repeat;
+    background-size: 78% 68%;
+    background-position-y: 0%;
+    overflow: hidden;
+    margin: 22px;
+    margin-top: 100px;
+}
+.card6 p{
+    color:white;
+    background-color:  black;
+    margin-top: 67%;
+    width: 95%;
+    height: 88px;
+    text-align: center;
+    font-size: 17px;
+    font-family: "BebasNeue";
+    letter-spacing: 2px;
+    padding: 6px;
+    box-shadow: 2px 2px 4px white;
+}
+.card7{
+    float: left;
+    width: 27%;
+    height: 380px;
+    background-image: url(../img/00007.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 71% 74%;
+    background-position-y: 0%;
+    overflow: hidden;
+    margin: 22px;
+    margin-top: 100px;
+    margin-left: 60px;
+}
+.card7 p{
+    color:white;
+    background-color:  black;
+    margin-top: 67%;
+    width: 95%;
+    height: 88px;
+    text-align: center;
+    font-size: 17px;
+    font-family: "BebasNeue";
+    letter-spacing: 2px;
+    padding: 6px;
+    box-shadow: 2px 2px 4px white;
+}
+.card8{
+    float: left;
+    width: 27%;
+    height: 380px;
+    background-image: url(../img/00008.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 60% 70%;
+    background-position-y: 0%;
+    overflow: hidden;
+    margin: 22px;
+    margin-top: 100px;
+}
+.card8 p{
+    color:white;
+    background-color:  black;
+    margin-top: 67%;
+    width: 95%;
+    height: 88px;
+    text-align: center;
+    font-size: 17px;
+    font-family: "BebasNeue";
+    letter-spacing: 2px;
+    padding: 6px;
+    box-shadow: 2px 2px 4px white;
+}
+.card9{
+    float: left;
+    width: 27%;
+    height: 380px;
+    background-image: url(../img/00009.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 74% 73%;
+    background-position-y: -26%;
+    overflow: hidden;
+    margin: 22px;
+    margin-top: 100px;
+}
+.card9 p{
+    color:white;
+    background-color:  black;
+    margin-top: 67%;
+    width: 95%;
+    height: 88px;
+    text-align: center;
+    font-size: 17px;
+    font-family: "BebasNeue";
+    letter-spacing: 2px;
+    padding: 6px;
+    box-shadow: 2px 2px 4px white;
+}
+.card10{
+    float: left;
+    width: 27%;
+    height: 380px;
+    background-image: url(../img/000010.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 58% 78%;
+    background-position-y: 0%;
+    overflow: hidden;
+    margin: 22px;
+    margin-top: 100px;
+    margin-left: 60px;
+}
+.card10 p{
+    color:white;
+    background-color:  black;
+    margin-top: 67%;
+    width: 95%;
+    height: 88px;
+    text-align: center;
+    font-size: 17px;
+    font-family: "BebasNeue";
+    letter-spacing: 2px;
+    padding: 6px;
+    box-shadow: 2px 2px 4px white;
+}
+.card11{
+    float: left;
+    width: 27%;
+    height: 380px;
+    background-image: url(../img/000011.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 80% 72%;
+    background-position-y: 0%;
+    overflow: hidden;
+    margin: 22px;
+    margin-top: 100px;
+}
+.card11 p{
+    color:white;
+    background-color:  black;
+    margin-top: 67%;
+    width: 95%;
+    height: 88px;
+    text-align: center;
+    font-size: 17px;
+    font-family: "BebasNeue";
+    letter-spacing: 2px;
+    padding: 6px;
+    box-shadow: 2px 2px 4px white;
+}
+.card12{
+    float: left;
+    width: 27%;
+    height: 380px;
+    background-image: url(../img/000012.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 70% 63%;
+    background-position-y: 0%;
+    overflow: hidden;
+    margin: 22px;
+    margin-top: 100px;
+}
+.card12 p{
+    color:white;
+    background-color:  black;
+    margin-top: 67%;
+    width: 95%;
+    height: 88px;
+    text-align: center;
+    font-size: 17px;
+    font-family: "BebasNeue";
+    letter-spacing: 2px;
+    padding: 6px;
+    box-shadow: 2px 2px 4px white;
+}
+.card13{
+    float: left;
+    width: 27%;
+    height: 380px;
+    background-image: url(../img/000013.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 73% 65%;
+    background-position-y: 0%;
+    overflow: hidden;
+    margin: 22px;
+    margin-top: 100px;
+    margin-left: 60px;
+}
+.card13 p{
+    color:white;
+    background-color:  black;
+    margin-top: 67%;
+    width: 95%;
+    height: 88px;
+    text-align: center;
+    font-size: 17px;
+    font-family: "BebasNeue";
+    letter-spacing: 2px;
+    padding: 6px;
+    box-shadow: 2px 2px 4px white;
+}
+.card14{
+    float: left;
+    width: 27%;
+    height: 380px;
+    background-image: url(../img/000014.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 73% 65%;
+    background-position-y: 0%;
+    overflow: hidden;
+    margin: 22px;
+    margin-top: 100px;
+}
+.card14 p{
+    color:white;
+    background-color:  black;
+    margin-top: 67%;
+    width: 95%;
+    height: 88px;
+    text-align: center;
+    font-size: 17px;
+    font-family: "BebasNeue";
+    letter-spacing: 2px;
+    padding: 6px;
+    box-shadow: 2px 2px 4px white;
+}
+.card15{
+    float: left;
+    width: 27%;
+    height: 380px;
+    background-image: url(../img/000015.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 80% 70%;
+    background-position-y: 0%;
+    overflow: hidden;
+    margin: 22px;
+    margin-top: 100px;
+}
+.card15 p{
+    color:white;
+    background-color:  black;
+    margin-top: 67%;
+    width: 95%;
+    height: 88px;
+    text-align: center;
+    font-size: 17px;
+    font-family: "BebasNeue";
+    letter-spacing: 2px;
+    padding: 6px;
+    box-shadow: 2px 2px 4px white;
+}
+.card16{
+    float: left;
+    width: 27%;
+    height: 380px;
+    background-image: url(../img/000016.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 45% 65%;
+    background-position-y: 0%;
+    overflow: hidden;
+    margin: 22px;
+    margin-top: 100px;
+    margin-left: 60px;
+}
+.card16 p{
+    color:white;
+    background-color:  black;
+    margin-top: 67%;
+    width: 95%;
+    height: 88px;
+    text-align: center;
+    font-size: 17px;
+    font-family: "BebasNeue";
+    letter-spacing: 2px;
+    padding: 6px;
+    box-shadow: 2px 2px 4px white;
+}
+.card17{
+    float: left;
+    width: 27%;
+    height: 380px;
+    background-image: url(../img/000017.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 55% 63%;
+    background-position-y: 0%;
+    overflow: hidden;
+    margin: 22px;
+    margin-top: 100px;
+}
+.card17 p{
+    color:white;
+    background-color:  black;
+    margin-top: 67%;
+    width: 95%;
+    height: 88px;
+    text-align: center;
+    font-size: 17px;
+    font-family: "BebasNeue";
+    letter-spacing: 2px;
+    padding: 6px;
+    box-shadow: 2px 2px 4px white;
+}
+.card18{
+    float: left;
+    width: 27%;
+    height: 380px;
+    background-image: url(../img/000018.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 73% 63%;
+    background-position-y: 0%;
+    overflow: hidden;
+    margin: 22px;
+    margin-top: 100px;
+}
+.card18 p{
+    color:white;
+    background-color:  black;
+    margin-top: 67%;
+    width: 95%;
+    height: 88px;
+    text-align: center;
+    font-size: 17px;
+    font-family: "BebasNeue";
+    letter-spacing: 2px;
+    padding: 6px;
+    box-shadow: 2px 2px 4px white;
+}
+.card19{
+    float: left;
+    width: 27%;
+    height: 380px;
+    background-image: url(../img/000019.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 73% 64%;
+    background-position-y: 0%;
+    overflow: hidden;
+    margin: 22px;
+    margin-top: 100px;
+    margin-left: 60px;
+}
+.card19 p{
+    color:white;
+    background-color:  black;
+    margin-top: 67%;
+    width: 95%;
+    height: 88px;
+    text-align: center;
+    font-size: 17px;
+    font-family: "BebasNeue";
+    letter-spacing: 2px;
+    padding: 6px;
+    box-shadow: 2px 2px 4px white;
+}
+.card20{
+    float: left;
+    width: 27%;
+    height: 380px;
+    background-image: url(../img/000020.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 80% 70%;
+    background-position-y: 0%;
+    overflow: hidden;
+    margin: 22px;
+    margin-top: 100px;
+}
+.card20 p{
+    color:white;
+    background-color:  black;
+    margin-top: 67%;
+    width: 95%;
+    height: 88px;
+    text-align: center;
+    font-size: 17px;
+    font-family: "BebasNeue";
+    letter-spacing: 2px;
+    padding: 6px;
+    box-shadow: 2px 2px 4px white;
+}
+.card21{
+    float: left;
+    width: 27%;
+    height: 380px;
+    background-image: url(../img/000021.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 70% 70%;
+    background-position-y: 0%;
+    overflow: hidden;
+    margin: 22px;
+    margin-top: 100px;
+}
+.card21 p{
+    color:white;
+    background-color:  black;
+    margin-top: 67%;
+    width: 95%;
+    height: 88px;
+    text-align: center;
+    font-size: 17px;
+    font-family: "BebasNeue";
+    letter-spacing: 2px;
+    padding: 6px;
+    box-shadow: 2px 2px 4px white;
+}
+.card22{
+    float: left;
+    width: 27%;
+    height: 380px;
+    background-image: url(../img/000022.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 45% 65%;
+    background-position-y: 0%;
+    overflow: hidden;
+    margin: 22px;
+    margin-top: 100px;
+    margin-left: 60px;
+}
+.card22 p{
+    color:white;
+    background-color:  black;
+    margin-top: 67%;
+    width: 95%;
+    height: 88px;
+    text-align: center;
+    font-size: 17px;
+    font-family: "BebasNeue";
+    letter-spacing: 2px;
+    padding: 6px;
+    box-shadow: 2px 2px 4px white;
+}
+.card23{
+    float: left;
+    width: 27%;
+    height: 380px;
+    background-image: url(../img/000023.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 65% 65%;
+    background-position-y: 0%;
+    overflow: hidden;
+    margin: 22px;
+    margin-top: 100px;
+}
+.card23 p{
+    color:white;
+    background-color:  black;
+    margin-top: 67%;
+    width: 95%;
+    height: 88px;
+    text-align: center;
+    font-size: 17px;
+    font-family: "BebasNeue";
+    letter-spacing: 2px;
+    padding: 6px;
+    box-shadow: 2px 2px 4px white;
+}
+.card24{
+    float: left;
+    width: 27%;
+    height: 380px;
+    background-image: url(../img/000024.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 65%;
+    background-position-y: 0%;
+    overflow: hidden;
+    margin: 22px;
+    margin-top: 100px;
+}
+.card24 p{
+    color:white;
+    background-color:  black;
+    margin-top: 67%;
+    width: 95%;
+    height: 88px;
+    text-align: center;
+    font-size: 17px;
+    font-family: "BebasNeue";
+    letter-spacing: 2px;
+    padding: 6px;
+    box-shadow: 2px 2px 4px white;
+}
+.card25{
+    float: left;
+    width: 27%;
+    height: 380px;
+    background-image: url(../img/000025.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 77% 67%;
+    background-position-y: 0%;
+    overflow: hidden;
+    margin: 22px;
+    margin-top: 100px;
+    margin-left: 60px;
+}
+.card25 p{
+    color:white;
+    background-color:  black;
+    margin-top: 67%;
+    width: 95%;
+    height: 88px;
+    text-align: center;
+    font-size: 17px;
+    font-family: "BebasNeue";
+    letter-spacing: 2px;
+    padding: 6px;
+    box-shadow: 2px 2px 4px white;
+}
+.card26{
+    float: left;
+    width: 27%;
+    height: 380px;
+    background-image: url(../img/000026.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 70% 70%;
+    background-position-y: 0%;
+    overflow: hidden;
+    margin: 22px;
+    margin-top: 100px;
+}
+.card26 p{
+    color:white;
+    background-color:  black;
+    margin-top: 67%;
+    width: 95%;
+    height: 88px;
+    text-align: center;
+    font-size: 17px;
+    font-family: "BebasNeue";
+    letter-spacing: 2px;
+    padding: 6px;
+    box-shadow: 2px 2px 4px white;
+}
+.card27{
+    float: left;
+    width: 27%;
+    height: 380px;
+    background-image: url(../img/000027.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 70% 70%;
+    background-position-y: 0%;
+    overflow: hidden;
+    margin: 22px;
+    margin-top: 100px;
+}
+.card27 p{
+    color:white;
+    background-color:  black;
+    margin-top: 67%;
+    width: 95%;
+    height: 88px;
+    text-align: center;
+    font-size: 17px;
+    font-family: "BebasNeue";
+    letter-spacing: 2px;
+    padding: 6px;
+    box-shadow: 2px 2px 4px white;
+}
+.card28{
+    float: left;
+    width: 27%;
+    height: 380px;
+    background-image: url(../img/000028.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 75% 70%;
+    background-position-y: 0%;
+    overflow: hidden;
+    margin: 22px;
+    margin-top: 100px;
+    margin-left: 60px;
+}
+.card28 p{
+    color:white;
+    background-color:  black;
+    margin-top: 67%;
+    width: 95%;
+    height: 88px;
+    text-align: center;
+    font-size: 17px;
+    font-family: "BebasNeue";
+    letter-spacing: 2px;
+    padding: 6px;
+    box-shadow: 2px 2px 4px white;
+}
+.card29{
+    float: left;
+    width: 27%;
+    height: 380px;
+    background-image: url(../img/000029.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 55% 65%;
+    background-position-y: 0%;
+    overflow: hidden;
+    margin: 22px;
+    margin-top: 100px;
+}
+.card29 p{
+    color:white;
+    background-color:  black;
+    margin-top: 67%;
+    width: 95%;
+    height: 88px;
+    text-align: center;
+    font-size: 17px;
+    font-family: "BebasNeue";
+    letter-spacing: 2px;
+    padding: 6px;
+    box-shadow: 2px 2px 4px white;
+}
+.card30{
+    float: left;
+    width: 27%;
+    height: 380px;
+    background-image: url(../img/000030.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 65% 62%;
+    background-position-y: 0%;
+    overflow: hidden;
+    margin: 22px;
+    margin-top: 100px;
+}
+.card30 p{
+    color:white;
+    background-color:  black;
+    margin-top: 67%;
+    width: 95%;
+    height: 88px;
+    text-align: center;
+    font-size: 17px;
+    font-family: "BebasNeue";
+    letter-spacing: 2px;
+    padding: 6px;
+    box-shadow: 2px 2px 4px white;
+}
+.card31{
+    float: left;
+    width: 27%;
+    height: 380px;
+    background-image: url(../img/000031.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 75% 65%;
+    background-position-y: 0%;
+    overflow: hidden;
+    margin: 22px;
+    margin-top: 100px;
+    margin-left: 60px;
+}
+.card31 p{
+    color:white;
+    background-color:  black;
+    margin-top: 67%;
+    width: 95%;
+    height: 88px;
+    text-align: center;
+    font-size: 17px;
+    font-family: "BebasNeue";
+    letter-spacing: 2px;
+    padding: 6px;
+    box-shadow: 2px 2px 4px white;
+}
+.card32{
+    float: left;
+    width: 27%;
+    height: 380px;
+    background-image: url(../img/000032.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 75% 68%;
+    background-position-y: 0%;
+    overflow: hidden;
+    margin: 22px;
+    margin-top: 100px;
+}
+.card32 p{
+    color:white;
+    background-color:  black;
+    margin-top: 67%;
+    width: 95%;
+    height: 88px;
+    text-align: center;
+    font-size: 17px;
+    font-family: "BebasNeue";
+    letter-spacing: 2px;
+    padding: 6px;
+    box-shadow: 2px 2px 4px white;
+}
+.card33{
+    float: left;
+    width: 27%;
+    height: 380px;
+    background-image: url(../img/000033.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 78% 69%;
+    background-position-y: 0%;
+    overflow: hidden;
+    margin: 22px;
+    margin-top: 100px;
+}
+.card33 p{
+    color:white;
+    background-color:  black;
+    margin-top: 67%;
+    width: 95%;
+    height: 88px;
+    text-align: center;
+    font-size: 17px;
+    font-family: "BebasNeue";
+    letter-spacing: 2px;
+    padding: 6px;
+    box-shadow: 2px 2px 4px white;
+}
+.card34{
+    float: left;
+    width: 27%;
+    height: 380px;
+    background-image: url(../img/000034.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 80% 67%;
+    background-position-y: 0%;
+    overflow: hidden;
+    margin: 22px;
+    margin-top: 100px;
+    margin-left: 60px;
+}
+.card34 p{
+    color:white;
+    background-color:  black;
+    margin-top: 67%;
+    width: 95%;
+    height: 88px;
+    text-align: center;
+    font-size: 17px;
+    font-family: "BebasNeue";
+    letter-spacing: 2px;
+    padding: 6px;
+    box-shadow: 2px 2px 4px white;
+}
+.card35{
+    float: left;
+    width: 27%;
+    height: 380px;
+    background-image: url(../img/000035.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 75% 63%;
+    background-position-y: 0%;
+    overflow: hidden;
+    margin: 22px;
+    margin-top: 100px;
+}
+.card35 p{
+    color:white;
+    background-color:  black;
+    margin-top: 67%;
+    width: 95%;
+    height: 88px;
+    text-align: center;
+    font-size: 17px;
+    font-family: "BebasNeue";
+    letter-spacing: 2px;
+    padding: 6px;
+    box-shadow: 2px 2px 4px white;
+}
+.card36{
+    float: left;
+    width: 27%;
+    height: 380px;
+    background-image: url(../img/000036.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 75% 65%;
+    background-position-y: 0%;
+    overflow: hidden;
+    margin: 22px;
+    margin-top: 100px;
+}
+.card36 p{
+    color:white;
+    background-color:  black;
+    margin-top: 67%;
+    width: 95%;
+    height: 88px;
+    text-align: center;
+    font-size: 17px;
+    font-family: "BebasNeue";
+    letter-spacing: 2px;
+    padding: 6px;
+    box-shadow: 2px 2px 4px white;
+}
+.card37{
+    float: left;
+    width: 27%;
+    height: 380px;
+    background-image: url(../img/000037.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 75% 65%;
+    background-position-y: 0%;
+    overflow: hidden;
+    margin: 22px;
+    margin-top: 100px;
+    margin-left: 60px;
+}
+.card37 p{
+    color:white;
+    background-color:  black;
+    margin-top: 67%;
+    width: 95%;
+    height: 88px;
+    text-align: center;
+    font-size: 17px;
+    font-family: "BebasNeue";
+    letter-spacing: 2px;
+    padding: 6px;
+    box-shadow: 2px 2px 4px white;
+}
+.card38{
+    float: left;
+    width: 27%;
+    height: 380px;
+    background-image: url(../img/000038.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 75% 65%;
+    background-position-y: 0%;
+    overflow: hidden;
+    margin: 22px;
+    margin-top: 100px;
+}
+.card38 p{
+    color:white;
+    background-color:  black;
+    margin-top: 67%;
+    width: 95%;
+    height: 88px;
+    text-align: center;
+    font-size: 17px;
+    font-family: "BebasNeue";
+    letter-spacing: 2px;
+    padding: 6px;
+    box-shadow: 2px 2px 4px white;
+}
+.card39{
+    float: left;
+    width: 27%;
+    height: 380px;
+    background-image: url(../img/000039.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 80% 65%;
+    background-position-y: 0%;
+    overflow: hidden;
+    margin: 22px;
+    margin-top: 100px;
+}
+.card39 p{
+    color:white;
+    background-color:  black;
+    margin-top: 67%;
+    width: 95%;
+    height: 88px;
+    text-align: center;
+    font-size: 17px;
+    font-family: "BebasNeue";
+    letter-spacing: 2px;
+    padding: 6px;
+    box-shadow: 2px 2px 4px white;
+}
+.card40{
+    float: left;
+    width: 27%;
+    height: 380px;
+    background-image: url(../img/000040.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 73% 63%;
+    background-position-y: 0%;
+    overflow: hidden;
+    margin: 22px;
+    margin-top: 100px;
+    margin-left: 60px;
+}
+.card40 p{
+    color:white;
+    background-color:  black;
+    margin-top: 67%;
+    width: 95%;
+    height: 88px;
+    text-align: center;
+    font-size: 17px;
+    font-family: "BebasNeue";
+    letter-spacing: 2px;
+    padding: 6px;
+    box-shadow: 2px 2px 4px white;
+}
+.card41{
+    float: left;
+    width: 27%;
+    height: 380px;
+    background-image: url(../img/000041.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 65% 62%;
+    background-position-y: 0%;
+    overflow: hidden;
+    margin: 22px;
+    margin-top: 100px;
+}
+.card41 p{
+    color:white;
+    background-color:  black;
+    margin-top: 67%;
+    width: 95%;
+    height: 88px;
+    text-align: center;
+    font-size: 17px;
+    font-family: "BebasNeue";
+    letter-spacing: 2px;
+    padding: 6px;
+    box-shadow: 2px 2px 4px white;
+}
+.card42{
+    float: left;
+    width: 27%;
+    height: 380px;
+    background-image: url(../img/000042.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 74% 63%;
+    background-position-y: 0%;
+    overflow: hidden;
+    margin: 22px;
+    margin-top: 100px;
+}
+.card42 p{
+    color:white;
+    background-color:  black;
+    margin-top: 67%;
+    width: 95%;
+    height: 88px;
+    text-align: center;
+    font-size: 17px;
+    font-family: "BebasNeue";
+    letter-spacing: 2px;
+    padding: 6px;
+    box-shadow: 2px 2px 4px white;
+}
+.card43{
+    float: left;
+    width: 27%;
+    height: 380px;
+    background-image: url(../img/000043.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 75% 65%;
+    background-position-y: 0%;
+    overflow: hidden;
+    margin: 22px;
+    margin-top: 100px;
+    margin-left: 60px;
+}
+.card43 p{
+    color:white;
+    background-color:  black;
+    margin-top: 67%;
+    width: 95%;
+    height: 88px;
+    text-align: center;
+    font-size: 17px;
+    font-family: "BebasNeue";
+    letter-spacing: 2px;
+    padding: 6px;
+    box-shadow: 2px 2px 4px white;
+}
+.card44{
+    float: left;
+    width: 27%;
+    height: 380px;
+    background-image: url(../img/000044.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 75% 65%;
+    background-position-y: 0%;
+    overflow: hidden;
+    margin: 22px;
+    margin-top: 100px;
+}
+.card44 p{
+    color:white;
+    background-color:  black;
+    margin-top: 67%;
+    width: 95%;
+    height: 88px;
+    text-align: center;
+    font-size: 17px;
+    font-family: "BebasNeue";
+    letter-spacing: 2px;
+    padding: 6px;
+    box-shadow: 2px 2px 4px white;
+}
+.card45{
+    float: left;
+    width: 27%;
+    height: 380px;
+    background-image: url(../img/000045.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 75% 70%;
+    background-position-y: 0%;
+    overflow: hidden;
+    margin: 22px;
+    margin-top: 100px;
+}
+.card45 p{
+    color:white;
+    background-color:  black;
+    margin-top: 67%;
+    width: 95%;
+    height: 88px;
+    text-align: center;
+    font-size: 17px;
+    font-family: "BebasNeue";
+    letter-spacing: 2px;
+    padding: 6px;
+    box-shadow: 2px 2px 4px white;
+}
+#footer{
+    width: 100%;
+    height: 100%;
+    margin-top: 5%;
+    text-align: center;
+    background-color: black;
+    color: rgb(235, 234, 241);
+
+}
+#footer iframe{
+    width: 30%;
+    height: 10%;
+    margin-top: 7%;
+    margin-left: -90%;
+    border-radius: 5px;
+    border: 5px solid white;
+    box-shadow: 0px 0px 5px gray;
+}
+#footer h1{
+    display: block;
+    background: url("../img/pxgray.png"), white;
+    width: 30%;
+    height: 50px;
+    letter-spacing: 2px;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 40px;
+    line-height: 55px;
+    color: black;
+    border-radius: 5px;
+    margin-bottom: 15px;
+}
+.ubicacion h1{
+    float: left;
+    margin-left: 10%;
+    margin-top: 2%;
+}
+.ubicacion p{
+    margin-left: -51%;
+}
+.contacto h1{
+    float: left;
+    margin-left: 53%;
+    margin-top: -17%;
+}
+.autor h1{
+    float: left;
+    margin-left: 53%;
+    margin-top: -8%;
+}
+.autor p{
+    float: left;
+    margin-left: 55%;
+    margin-top: -3%;
+    font-size: 100%;
+}
+.container-redes{
+    bottom: 20px;
+    right: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.container-redes img{
+    width: 60px;
+    padding: 4px;
+    background: rgba(0,0,0,0.0);
+    cursor: pointer;
+    border-radius: 100%;
+    transition: all 300ms;
+}
+.container-redes a:hover img{
+    background: rgba(233, 214, 214, 0.698);
+}
+.whatsapp{
+    position: absolute;
+    float: left;
+    margin-left: 61%;
+    margin-top: -21%;
+}
+.messenger{
+    position: absolute;
+    float: left;
+    margin-left: 69%;
+    margin-top: -21%;
+}
+.statcounter{
+    color: black;
+}
